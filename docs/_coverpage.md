@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![logo](img/logo.png)
 
-# docsify <small>4.6.10</small>
+# decembrist
 
-> A magical documentation site generator.
+> A magical framework.
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
+* So taste
+* Very delicious
+* Hight orgasm
 
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/godslovecats/decembrist.docs)
+[Get Started](#decembrist)
