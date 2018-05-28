@@ -1,2 +1,1 @@
-"# decembrist.docs" 
-# decembrist.docs
+https://godslovecats.github.io/decembrist.docs/#/
